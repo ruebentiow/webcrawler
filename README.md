@@ -13,7 +13,7 @@ Then start the program running:
 	python crawler.py
 
 Example usage:
-
+```
 Continue? Y/N: y
 Number of words to return {default 10}: 
 Words to exclude: 
@@ -35,3 +35,4 @@ Words to exclude:
 13               30        its
 14               28       that
 Continue? Y/N: n
+```
