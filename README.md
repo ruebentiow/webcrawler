@@ -15,7 +15,7 @@ Then start the program running:
 Example usage:
 
 	Continue? Y/N: y
-	Number of words to return {default 10}: 
+	Number of words to return {default 10}: 15
 	Words to exclude: 
 	['']
 	    # of occurences       Word
